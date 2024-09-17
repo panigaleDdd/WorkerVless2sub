@@ -13,8 +13,9 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
-	  'https://github.com/panigaleDdd/Uip/blob/main/Uip.txt',
+	  'https://github.com/panigaleDdd/Uip/blob/main/Uip.txt',//IPv4
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	  'https://github.com/panigaleDdd/Uip-ipv6/blob/main/uip-ipv6', //IPv6
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
